@@ -1,16 +1,22 @@
-# profile_screen
+# Profile Screen
 
-A new Flutter project.
+A simple user profile screen built with Flutter. This app displays a user's name, photo, and bio.
+
+## Features
+
+- Display user's profile picture
+- Show user's name and job title
+- Display a brief bio
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed on your machine
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/profile_screen.git
+   cd profile_screen
